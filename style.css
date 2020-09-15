@@ -1,5 +1,4 @@
-body {font-family: "Lucida Sans Unicode", 
-    "Lucida Grande", sans-serif; 
+body {font-family: "Lucida Grande", sans-serif; 
     color: #ffffff; 
     background-color: #000000}
 h1 {text-align: center;
@@ -23,6 +22,6 @@ img {width: 525px;
     display: block; 
     margin-left: auto; 
     margin-right: auto}
-footer {text-align: right; 
-    padding-bottom: 10px; 
-    padding-right: 10px}
+footer p {text-align: right; 
+        padding-bottom: 10px; 
+        padding-right: 10px}
